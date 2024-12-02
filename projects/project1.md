@@ -1,6 +1,9 @@
 ---
-title: "Project1"
----
+title: "Projects"
+--
+
+# Project1
 
 ## placeholder
- paragraph
+
+paragraph
