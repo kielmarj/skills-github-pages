@@ -1,6 +1,6 @@
 ---
-title: "Projects"
---
+title: "Project1"
+---
 
 # Project1
 

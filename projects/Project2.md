@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Project2"
 ---
 
 # Project2
