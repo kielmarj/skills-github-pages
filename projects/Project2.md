@@ -1,9 +1,9 @@
 ---
 title: "Projects"
---
+---
 
-# Project1
+# Project2
 
-## placeholder
+## placeholder 
 
 paragraph
